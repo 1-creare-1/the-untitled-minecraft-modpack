@@ -1,6 +1,7 @@
 .minecraft/logs
 .minecraft/crash-reports
 *.log
+.minecraft/debug
 
 .minecraft/journeymap/data
 .minecraft/journeymap/defaultconfig.json
@@ -50,7 +51,7 @@
 .minecraft/usernamecache.json
 .minecraft/xaero
 
-# These are configs that weidly auto update
+# These are configs that weirdly auto update
 # Make sure to remove them from ignore if they end up being changed
 .minecraft/config/oculus.properties
 .minecraft/config/oculus.properties
